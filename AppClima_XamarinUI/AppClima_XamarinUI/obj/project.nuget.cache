@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcCpXrL7fwc7WZ6xk0ToNa4P1t5FiIURp8/w6G4p+B8rfv1WPqtAOIL+vSLhIeCYi5/Ec7dIo8kJ9fBKb3ZCNA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Apps\\AppClima_XamarinUI\\AppClima_XamarinUI\\AppClima_XamarinUI\\AppClima_XamarinUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Aparecida_Jau\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

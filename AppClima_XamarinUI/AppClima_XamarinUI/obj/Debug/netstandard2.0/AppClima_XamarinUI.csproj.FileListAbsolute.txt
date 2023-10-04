@@ -1,0 +1,15 @@
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\bin\Debug\netstandard2.0\AppClima_XamarinUI.deps.json
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\bin\Debug\netstandard2.0\AppClima_XamarinUI.dll
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\bin\Debug\netstandard2.0\AppClima_XamarinUI.pdb
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.csproj.AssemblyReference.cache
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.AssemblyInfoInputs.cache
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.AssemblyInfo.cs
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.csproj.CoreCompileInputs.cache
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.dll
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\refint\AppClima_XamarinUI.dll
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\AppClima_XamarinUI.pdb
+C:\Dev\Apps\AppClima_XamarinUI\AppClima_XamarinUI\AppClima_XamarinUI\obj\Debug\netstandard2.0\ref\AppClima_XamarinUI.dll
